@@ -13,17 +13,17 @@ As part of the course, I had the opportunity to work on a real-world capstone pr
 ## Table of Contents
 
 - [Course Content Overview](#course-content-overview)
-  - [Day 1: Foundational Models & Prompt Engineering](#day-1-foundational-models--prompt-engineering)
-  - [Day 2: Embeddings and Vector Stores/Databases](#day-2-embeddings-and-vector-storesdatabases)
-  - [Day 3: Generative AI Agents](#day-3-generative-ai-agents)
-  - [Day 4: Domain-Specific LLMs](#day-4-domain-specific-llms)
-  - [Day 5: MLOps for Generative AI](#day-5-mlops-for-generative-ai)
-  - [Capstone Project: From Chaos to Cloud](#capstone-project-from-chaos-to-cloud---teaching-ai-to-speak-tosca)
+  - [Day 1: Foundational Models & Prompt Engineering](./Day%201)
+  - [Day 2: Embeddings and Vector Stores/Databases](./Day%202)
+  - [Day 3: Generative AI Agents](./Day%203)
+  - [Day 4: Domain-Specific LLMs](./Day%204)
+  - [Day 5: MLOps for Generative AI](./Day%205)
+  - [Capstone Project: From Chaos to Cloud](./Project)
 - [Course Materials](#course-materials)
 
 ## Course Content Overview
 
-### Day 1: Foundational Models & Prompt Engineering
+### [Day 1: Foundational Models & Prompt Engineering](./Day%201)
 
 Day 1 provided a comprehensive introduction to the evolution of Large Language Models (LLMs), covering everything from the fundamental transformer architecture to advanced techniques like fine-tuning, inference acceleration, and reasoning models. Through hands-on exercises, I gained practical experience in prompt engineering, learning how to effectively interact with LLMs to achieve optimal results. The day's content was particularly valuable for understanding the core mechanisms that power modern language models.
 
@@ -77,23 +77,23 @@ Key functions:
 
 The feedforward layer processes each token's representation independently after the attention mechanisms, helping the model learn complex functions of the input.
 
-### Day 2: Embeddings and Vector Stores/Databases
+### [Day 2: Embeddings and Vector Stores/Databases](./Day%202)
 
 Day 2 focused on embeddings and vector databases, covering fundamental concepts that I was already familiar with from previous studies. The day's content included a thorough exploration of embedding methods, vector search algorithms, and their practical applications with LLMs. While the material was well-presented and comprehensive, it primarily reinforced my existing knowledge rather than introducing new concepts. The analysis of tradeoffs between different approaches provided a good opportunity to validate and expand upon my prior understanding of these technologies.
 
-### Day 3: Generative AI Agents
+### [Day 3: Generative AI Agents](./Day%203)
 
 Day 3 was dedicated to exploring the fascinating world of Generative AI Agents. Through hands-on exercises and theoretical discussions, I learned how to build sophisticated AI agents and understand their core components. The day provided valuable insights into the iterative development process of AI agents, and I particularly enjoyed exploring the recent developments in agentspace. This session helped me understand how to create more intelligent and autonomous systems that can interact with their environment and users effectively.
 
-### Day 4: Domain-Specific LLMs
+### [Day 4: Domain-Specific LLMs](./Day%204)
 
 Day 4 offered a deep dive into specialized Large Language Models, with a particular focus on models like SecLM and Med-PaLM. The most valuable aspect of this day was learning directly from the researchers who built these specialized models. Their insights into the development process and the unique challenges of creating domain-specific LLMs were particularly enlightening. The session provided a comprehensive understanding of how these models are tailored for specific applications and industries, highlighting the importance of domain expertise in AI development.
 
-### Day 5: MLOps for Generative AI
+### [Day 5: MLOps for Generative AI](./Day%205)
 
 The final day of the course focused on adapting MLOps practices specifically for Generative AI applications. I learned how to effectively use Vertex AI's tools for managing foundation models and deploying GenAI applications. The day culminated in the launch of the capstone project, which provided a practical opportunity to apply all the knowledge gained throughout the course. This session was particularly valuable for understanding how to operationalize and maintain GenAI systems in production environments.
 
-### Capstone Project: From Chaos to Cloud - Teaching AI to Speak TOSCA
+### [Capstone Project: From Chaos to Cloud - Teaching AI to Speak TOSCA](./Project)
 
 For my capstone project, I developed a conversational AI system that helps users create properly formatted TOSCA (Topology and Orchestration Specification for Cloud Applications) files through an interactive dialogue. The project addresses the challenge of cloud orchestration and deployment automation by providing an intuitive, conversational interface for generating accurate TOSCA files.
 
