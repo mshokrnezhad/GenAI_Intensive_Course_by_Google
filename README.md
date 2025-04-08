@@ -1,2 +1,3 @@
-# GenAI_Intensive_Course_by_Google
+# GenAI Intensive Course by Google
+
 5-Day GenAI Intensive Course by Google
